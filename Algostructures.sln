@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algostructures", "Algostructures\Algostructures.csproj", "{ACFCE78A-C94F-46E8-B7EF-5992ADBE8456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFCE78A-C94F-46E8-B7EF-5992ADBE8456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFCE78A-C94F-46E8-B7EF-5992ADBE8456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFCE78A-C94F-46E8-B7EF-5992ADBE8456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFCE78A-C94F-46E8-B7EF-5992ADBE8456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
