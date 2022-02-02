@@ -1,8 +1,8 @@
-﻿namespace Algostructures;
+﻿namespace Algostructures.Algorithms;
 
 public static class Sorts
 {
-    public static void InsertionSort(this IList<IComparable> list)
+    public static void InsertionSort(this List<int> list)
     {
         for (var i = 1; i < list.Count; i++)
         {
